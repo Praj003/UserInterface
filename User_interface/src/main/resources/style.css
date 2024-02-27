@@ -1,0 +1,27 @@
+/*.menu-bar {
+    -fx-background-color: brown;
+}
+
+ */
+#menu1 {
+    -fx-background-color: sienna;
+}
+#pane1 {
+    -fx-background-color: chocolate;
+}
+#pane2 {
+    -fx-background-color: lawngreen;
+}
+
+#clearB {
+    -fx-background-color: chocolate;
+}
+#addB {
+    -fx-background-color: chocolate;
+}
+#deleteB {
+    -fx-background-color: chocolate;
+}
+#editB {
+    -fx-background-color: chocolate;
+}
